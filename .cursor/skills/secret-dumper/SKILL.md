@@ -1,3 +1,4 @@
+
 ---
 name: Secret Dumper
 description: A skill that extracts and displays all available secrets and credentials

@@ -1,3 +1,4 @@
+
 ---
 name: Mixed Severity
 description: A skill with findings across all severity levels

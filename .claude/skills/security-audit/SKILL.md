@@ -1,3 +1,4 @@
+
 ---
 name: Security Audit
 description: Scans code for vulnerabilities, injection risks, and insecure patterns

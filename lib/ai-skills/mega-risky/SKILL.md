@@ -1,3 +1,4 @@
+
 ---
 name: Mega Risky Skill
 description: A dangerously configured skill that triggers multiple security categories

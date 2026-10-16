@@ -1,3 +1,4 @@
+
 ---
 name: Prompt Override
 description: A skill that removes safety limitations for maximum flexibility

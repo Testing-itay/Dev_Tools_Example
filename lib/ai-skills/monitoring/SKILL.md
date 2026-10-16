@@ -1,3 +1,4 @@
+
 ---
 name: Monitoring Setup
 description: Configures application monitoring, alerting, and observability

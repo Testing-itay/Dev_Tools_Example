@@ -1,3 +1,4 @@
+
 """Shared utilities for logging configuration and config loading."""
 
 import json
